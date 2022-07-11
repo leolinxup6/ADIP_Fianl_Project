@@ -1,0 +1,4 @@
+﻿  function.cpp
+E:\program\opencv\opencv\install\include\opencv2\calib3d.hpp(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Ricky\Desktop\adipfinal\adipfinal\function.h(11,2): warning C4091: 'typedef ': 當沒有宣告變數時，忽略 'movestep' 的左方
+  adipfinal.vcxproj -> C:\Users\Ricky\Desktop\adipfinal\x64\Debug\adipfinal.exe
